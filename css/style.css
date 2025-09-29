@@ -309,3 +309,13 @@ padding: 1em;
         margin-bottom: 2em;
     }
 }
+
+.contacto {
+  display: flex;
+  flex-direction: row;
+}
+
+#datos {
+  display: flex;
+  flex-direction: row;
+}
