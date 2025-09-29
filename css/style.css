@@ -313,9 +313,11 @@ padding: 1em;
 .contacto {
   display: flex;
   flex-direction: row;
+  align-items:first baseline;
+
 }
 
 #datos {
   display: flex;
-  flex-direction: row;
+  
 }
